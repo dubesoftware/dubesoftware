@@ -1,3 +1,4 @@
+# Lloyd’s GitHub Profile
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my public profile! This includes my [Certificates of Completion](https://www.learnenough.com/certificates/dubesoftware) from [Learn Enough](https://www.learnenough.com/). Some courses I've completed include:
+
+<a href="https://www.learnenough.com/certificates/dubesoftware"><img src="https://www.learnenough.com/certificates/dubesoftware/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+
+🌱 I’m always learning something new!
+
+⚡ Fun fact: I'm a polyglot who enjoys software projects spanning many languages, frameworks, architectures and applications.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sldube/)
