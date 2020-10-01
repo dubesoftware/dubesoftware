@@ -22,6 +22,6 @@ Welcome to my public profile! This includes my [Certificates of Completion](http
 
 🌱 I’m always learning something new!
 
-⚡ Fun fact: I'm a polyglot who enjoys software projects spanning many languages, frameworks, architectures and applications.
+⚡ Fun fact: I'm a polyglot who enjoys working on software projects spanning many languages, frameworks, architectures and applications.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sldube/)
