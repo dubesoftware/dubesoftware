@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 
 Welcome to my public profile! This includes my [Certificates of Completion](https://www.learnenough.com/certificates/dubesoftware) from [Learn Enough](https://www.learnenough.com/). Some courses I've completed include:
 
-### Learn Enough:
+#### Learn Enough:
 <a href="https://www.learnenough.com/certificates/dubesoftware"><img src="https://www.learnenough.com/certificates/dubesoftware/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
-### Codecademy:
+#### Codecademy:
 <a href="https://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd"><img src="hhttps://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd" alt="Certificate of Completion for Learn Ruby"></a>
 
-🌱 I’m always learning something new!
+### 🌱 I’m always learning something new!
 
 ⚡ Fun fact: I'm a polyglot who enjoys working on software projects spanning many languages, frameworks, architectures and applications. My programming languages of interest include Ruby, Python, Lua, JavaScript/ TypeScript, Elixir, Rust, HTML, CSS/ SASS.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sldube/)
+### 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/sldube/)
