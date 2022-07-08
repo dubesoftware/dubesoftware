@@ -28,7 +28,7 @@ Welcome to my public profile. This includes my [Certificates of Completion](http
 
 ### 🌱 Always learning something new!
 
-⚡ I'm a polyglot who enjoys working on software projects spanning many languages, frameworks, architectures and applications. Some programming languages of interest to me include Ruby, Python, JavaScript, TypeScript and Lua.
+⚡ I'm a polyglot who enjoys working on software projects spanning many languages, frameworks, architectures and applications. Some programming languages of interest to me include Ruby, Elixir, Python, JavaScript, TypeScript, Lua and MoonScript.
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/sldube/)
