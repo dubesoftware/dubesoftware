@@ -28,7 +28,11 @@ Welcome to my public profile. This includes my [Certificates of Completion](http
 
 ### 🌱 Always learning something new!
 
-⚡ I'm a polyglot who enjoys working on software projects spanning many languages, frameworks, architectures and applications. Some programming languages of interest to me include Ruby, Elixir, Python and JavaScript.
+⚡ A polyglot with experience in a broad range of methodologies, tools, frameworks and languages for software engineering.
+
+My experience includes agile methodologies and team collaboration in remote roles.
+
+Some programming languages of interest to me include Ruby, Elixir, Python and JavaScript.
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/sldube/)
