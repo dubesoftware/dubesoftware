@@ -36,4 +36,4 @@ My experience includes agile methodologies and team collaboration in remote role
 Some programming languages of interest to me include Ruby, Elixir, Python and JavaScript.
 
 ### 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/sldube/)
+[LinkedIn](https://www.linkedin.com/in/dubesoftware/)
