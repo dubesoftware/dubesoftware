@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my public profile. This includes my [Certificates of Completion](https://www.learnenough.com/certificates/dubesoftware) from [Learn Enough](https://www.learnenough.com/). Some courses I've completed include:
+Welcome to my public profile. This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.com/alumni/dubesoftware) as well as [my certificates of completion at Learn Enough](https://www.learnenough.com/certificates/dubesoftware). Some courses I've completed include:
+
+#### The Pragmatic Studio
+<a href="https://pragmaticstudio.com/alumni/dubesoftware">Ruby Programming</a>
 
 #### Learn Enough Society:
 <a href="https://www.learnenough.com/certificates/dubesoftware"><img src="https://www.learnenough.com/certificates/dubesoftware/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
