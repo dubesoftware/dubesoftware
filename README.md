@@ -25,7 +25,7 @@ Welcome to my public profile. This includes my [alumni page at The Pragmatic Stu
 <a href="https://www.learnenough.com/certificates/dubesoftware">Learn Enough Ruby and The Ruby on Rails Tutorial, 6th Ed.</a>
 
 #### Codecademy:
-<a href="https://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd"><img src="hhttps://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd" alt="Certificate of Completion for Learn Ruby"></a>
+<a href="https://www.codecademy.com/profiles/dubesoftware/certificates/1c05e0382bc5681c824c4cbe85c126fd"><img src="hhttps://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd" alt="Certificate of Completion for Learn Ruby"></a>
 
 ### 🌱 Always learning something new!
 
