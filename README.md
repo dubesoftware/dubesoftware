@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 Welcome to my public profile. This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.com/alumni/dubesoftware) as well as [my certificates of completion at Learn Enough](https://www.learnenough.com/certificates/dubesoftware). Some courses I've completed include:
 
-#### The Pragmatic Studio
+#### The Pragmatic Studio:
 <a href="https://pragmaticstudio.com/alumni/dubesoftware">Ruby Programming</a>
 
 #### Learn Enough Society:
-<a href="https://www.learnenough.com/certificates/dubesoftware"><img src="https://www.learnenough.com/certificates/dubesoftware/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
-
-<a href="https://www.learnenough.com/certificates/dubesoftware"><img src="https://www.learnenough.com/certificates/dubesoftware/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
+<a href="https://www.learnenough.com/certificates/dubesoftware">Learn Enough Ruby and The Ruby on Rails Tutorial, 6th Ed.</a>
 
 #### Codecademy:
 <a href="https://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd"><img src="hhttps://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd" alt="Certificate of Completion for Learn Ruby"></a>
