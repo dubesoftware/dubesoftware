@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my public profile. This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.com/alumni/dubesoftware) as well as [my certificates of completion at Learn Enough](https://www.learnenough.com/certificates/dubesoftware). Some courses I've completed include:
 
 #### The Pragmatic Studio:
-<a href="https://pragmaticstudio.com/alumni/dubesoftware">Ruby Programming, Mastering Ruby Blocks & Iterators, Rails 7, Hotwire</a>
+<a href="https://pragmaticstudio.com/alumni/dubesoftware">Ruby Programming, Mastering Ruby Blocks & Iterators, Rails 7, Hotwire for Rails Developers</a>
 
 #### Learn Enough Society:
 <a href="https://www.learnenough.com/certificates/dubesoftware">Learn Enough Ruby and The Ruby on Rails Tutorial, 6th Ed.</a>
