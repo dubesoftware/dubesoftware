@@ -33,7 +33,7 @@ Welcome to my public profile. This includes my [alumni page at The Pragmatic Stu
 
 My experience includes agile methodologies and team collaboration in remote roles.
 
-Some programming languages of interest to me include Ruby, Elixir, Python and JavaScript.
+Some programming languages of interest to me include Ruby, Elixir, Lua and JavaScript.
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/dubesoftware/)
