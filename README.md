@@ -1,5 +1,5 @@
-# Lloyd’s GitHub Profile
-### Happy Rubyist ♦️
+# Lloyd Dube’s GitHub Profile
+### Senior Software Developer ♦️
 
 <!--
 **dubesoftware/dubesoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,11 +29,7 @@ Welcome to my public profile. This includes my [alumni page at The Pragmatic Stu
 
 ### 🌱 Always learning something new!
 
-⚡ A polyglot with experience in a broad range of methodologies, tools, frameworks and languages for software engineering.
-
-My experience includes agile methodologies and team collaboration in remote roles.
-
-Some programming languages of interest to me include Ruby, Elixir, Lua and JavaScript.
+⚡ I am a full-stack software engineer especially interested in building simple and fast software, scaling systems up, and shipping reliable applications. I am deeply interested in the intersection of developer ergonomics, runtime efficiency and fault tolerance. My most productive programming language is Ruby. However, being a polyglot, I am also keen on Elixir, Lua, TypeScript and other languages where applicable.
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/dubesoftware/)
