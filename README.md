@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my public profile. This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.com/alumni/dubesoftware) as well as [my certificates of completion at Learn Enough](https://www.learnenough.com/certificates/dubesoftware). Some courses I've completed include:
+Welcome to my public profile.
+
+### ⚡ About me
+I am a full-stack software engineer especially interested in building simple and fast software, scaling systems up, and shipping reliable applications. I am deeply interested in the intersection of developer ergonomics, runtime efficiency and fault tolerance. My most productive programming language is Ruby. However, being a polyglot, I am also keen on Elixir, Lua, TypeScript and other languages where applicable.
+
+### 🌱 Always learning something new!
+
+This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.com/alumni/dubesoftware) as well as [my certificates of completion at Learn Enough](https://www.learnenough.com/certificates/dubesoftware). Some courses I've completed include the following:
 
 #### The Pragmatic Studio:
 <a href="https://pragmaticstudio.com/alumni/dubesoftware">Ruby Programming, Mastering Ruby Blocks & Iterators, Rails 7, Hotwire for Rails Developers</a>
@@ -26,10 +33,6 @@ Welcome to my public profile. This includes my [alumni page at The Pragmatic Stu
 
 #### Codecademy:
 <a href="https://www.codecademy.com/profiles/dubesoftware/certificates/1c05e0382bc5681c824c4cbe85c126fd"><img src="hhttps://www.codecademy.com/profiles/objectWhiz84614/certificates/1c05e0382bc5681c824c4cbe85c126fd" alt="Certificate of Completion for Learn Ruby"></a>
-
-### 🌱 Always learning something new!
-
-⚡ I am a full-stack software engineer especially interested in building simple and fast software, scaling systems up, and shipping reliable applications. I am deeply interested in the intersection of developer ergonomics, runtime efficiency and fault tolerance. My most productive programming language is Ruby. However, being a polyglot, I am also keen on Elixir, Lua, TypeScript and other languages where applicable.
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/dubesoftware/)
