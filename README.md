@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my public profile.
 
 ### ⚡ About me
-I am a full-stack software developer especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building SaaS products in Ruby and Ruby on Rails. However, being a polyglot, I will also work in Elixir, Lua, TypeScript and other languages as applicable.
+I am a full-stack software developer especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building SaaS products in Ruby and Ruby on Rails. However, being a polyglot, I will also work in Elixir, Lua, TypeScript and other languages as applicable. \*Remote work only\*
 
 ### 🌱 Always learning something new!
 
