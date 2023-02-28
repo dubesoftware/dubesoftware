@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my public profile.
 
 ### ⚡ About me
-I am a full-stack software developer especially interested in building simple and fast software, scaling systems up, and shipping reliable applications. I am deeply interested in the intersection of developer ergonomics, runtime efficiency and fault tolerance. My most productive programming language is Ruby. However, being a polyglot, I am also keen on Elixir, Lua, TypeScript and other languages where applicable.
+I am a full-stack software developer especially interested in building simple and fast software, scaling systems up, and shipping reliable applications. I enjoy building SaaS products in Ruby and Ruby on Rails. However, being a polyglot, I will work in Elixir, Lua, TypeScript and other languages where applicable.
 
 ### 🌱 Always learning something new!
 
