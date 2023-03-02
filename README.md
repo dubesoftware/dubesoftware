@@ -38,3 +38,4 @@ This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.c
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/dubesoftware/)
+[Twitter](https://www.twitter.com/dubesoftware)
