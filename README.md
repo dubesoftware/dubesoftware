@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my public profile.
 
 ### ⚡ About me
-I am a full-stack software developer especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building SaaS applications in Ruby, Ruby on Rails, Elixir/OTP and Phoenix LiveView. \*Remote work only\*
+I am a full-stack software developer especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building SaaS applications in Ruby on Rails and Hotwire. *100% remote work only*
 
 ### 🌱 Always learning something new!
 
