@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my public profile.
 
 ### ⚡ About me
-I am a full-stack developer and [merchandise designer](https://gemologism.creator-spring.com/) especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building web applications. \*100% remote work only\*
+I am a full-stack developer and [merchandise designer](https://gemologism.creator-spring.com/) especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building web applications.
 
 ### 🌱 Always learning something new!
 
