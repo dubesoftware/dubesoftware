@@ -1,5 +1,5 @@
 # Lloyd Dube’s GitHub Profile
-### ♦️ Founder, Full-Stack Developer, Merchandise Designer
+### ♦️ Full-Stack Developer
 
 <!--
 **dubesoftware/dubesoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 Welcome to my public profile.
 
 ### ⚡ About me
-I am a full-stack developer and [merchandise designer](https://gemologism.creator-spring.com/) especially interested in building simple and fast software, scaling systems up and shipping reliable applications. I enjoy building web applications.
+A tech-agnostic full-stack developer who enjoys building for the web.
+
+\*100% Remote/ Hybrid work preferred\*
 
 ### 🌱 Always learning something new!
 
