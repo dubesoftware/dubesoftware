@@ -1,5 +1,5 @@
 # Lloyd Dube’s GitHub Profile
-### ♦️ Full-Stack Developer
+### ♦️ Full-Stack Software Engineer
 
 <!--
 **dubesoftware/dubesoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my public profile.
 
 ### ⚡ About me
-A tech-agnostic full-stack developer with back end bias. Skills: COBOL, C#, ASP.NET, Python, Django, Ruby, Ruby on Rails, Lua, Solar2D, HTML, CSS, SQL, Agile, Database Modelling... etc.
+A tech-agnostic full-stack software engineer with a back end bias. Skills: COBOL, C#, ASP.NET, Python, Django, Ruby, Ruby on Rails, Lua, Solar2D, HTML, CSS, SQL, Agile, Database Modelling... etc.
 
 ### 🌱 Always learning something new!
 
