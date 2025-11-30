@@ -42,5 +42,7 @@ This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.c
 [Twitter](https://www.twitter.com/dubesoftware)
 
 ☎️: +27 (0)72 473 6801
+
 📧: lloyddube@gmail.com, therealdubesoftware@gmail.com
+
 📍: 41 Mill Street, Brookyln, Cape Town, 7405, South Africa
