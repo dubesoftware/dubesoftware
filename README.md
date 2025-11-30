@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my public profile.
+Welcome to the public profile of Sithembewena Lloyd Dube.
 
 ### ⚡ About me
 A tech-agnostic full-stack software engineer with a back end bias. Skills: COBOL, C#, ASP.NET, Python, Django, Ruby, Ruby on Rails, Lua, Solar2D, HTML, CSS, SQL, Agile, Database Modelling... etc.
@@ -40,3 +40,7 @@ This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.c
 [LinkedIn](https://www.linkedin.com/in/dubesoftware/)
 
 [Twitter](https://www.twitter.com/dubesoftware)
+
+☎️: +27 (0)72 473 6801
+📧: lloyddube@gmail.com, therealdubesoftware@gmail.com
+📍: 41 Mill Street, Brookyln, Cape Town, 7405, South Africa
