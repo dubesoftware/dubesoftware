@@ -39,8 +39,6 @@ This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.c
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/dubesoftware/)
 
-[Twitter](https://www.twitter.com/dubesoftware)
+[X](https://www.x.com/dubesoftware)
 
-☎️: +27 (0)72 473 6801
-
-📧: lloyddube@gmail.com, therealdubesoftware@gmail.com
+📧: lloyddube@gmail.com
