@@ -1,4 +1,4 @@
-# Lloyd Dube’s GitHub Profile
+# Dube Software’s GitHub Profile
 ### ♦️ Full-Stack Software Engineer
 
 <!--
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to the public profile of Sithembewena Lloyd Dube.
+Welcome to the public profile of Dube Software.
 
 ### ⚡ About me
 A tech-agnostic full-stack software engineer with a back end bias. Skills: COBOL, C#, ASP.NET, Python, Django, Ruby, Ruby on Rails, Lua, Solar2D, HTML, CSS, SQL, Agile, Database Modelling... etc.
-
+<!--
 ### 🌱 Always learning something new!
 
 This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.com/alumni/dubesoftware) as well as [my certificates of completion at Learn Enough](https://www.learnenough.com/certificates/dubesoftware). Some courses I've completed include the following:
@@ -42,3 +42,4 @@ This includes my [alumni page at The Pragmatic Studio](https://pragmaticstudio.c
 [X](https://www.x.com/dubesoftware)
 
 📧: lloyddube@gmail.com
+-->
