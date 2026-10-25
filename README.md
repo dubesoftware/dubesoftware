@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 Welcome to the public profile of Dube Software.
 
 ### ⚡ About me
-A tech-agnostic full-stack software engineer with a back end bias. Skills: COBOL, C#, ASP.NET, Python, Django, Ruby, Ruby on Rails, Lua, Solar2D, HTML, CSS, SQL, Agile, Database Modelling... etc.
+A software engineer and solo founder interested in augmentation of human skills in the AI age. My competencies include software design, database management, agile methodologies, digital marketing and AI integration.
+
+I'm a tech-agnostic full-stack software engineer with a back end bias. Skills: COBOL, C#, ASP.NET, Python, Django, Ruby, Ruby on Rails, Lua, Solar2D, HTML, CSS, SQL, Agile, Database Modelling... etc.
 <!--
 ### 🌱 Always learning something new!
 
